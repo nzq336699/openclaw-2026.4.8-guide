@@ -1,47 +1,59 @@
-# 🦞 OpenClaw 30分钟快速入门指南
+# 🚀 OpenClaw v2026.4.8 完全指南
 
-> Claw司令的保姆级部署教程 | 新手友好 | 2026最新版
+[![GitHub Stars](https://img.shields.io/github/stars/Jacky/openclaw-2026.4.8-guide?style=social)]()
+[![OpenClaw Version](https://img.shields.io/badge/OpenClaw-v2026.4.8-blue)](https://github.com/openclaw/openclaw)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## 🎯 教程目标
-**30分钟内**完成 OpenClaw 基础配置，让新手少踩坑、快速跑起来！
+## 🎯 指南目标
+**24小时内掌握OpenClaw v2026.4.8所有新功能**，让AI真正成为你的超能助手！
 
-## 📖 教程内容
-- ✅ 环境准备与系统要求
-- ✅ 一键安装脚本
-- ✅ 基础技能配置
-- ✅ 记忆系统设置
-- ✅ 安全配置提醒
-- ✅ 常见问题解决
-- ✅ 下一步学习路径
+## ✨ 新版本亮点
+- 🧠 **Memory Wiki**：你的第二大脑，语义搜索+向量检索双引擎
+- 🔌 **新增Provider**：Qwen、Fireworks、MiniMax、Ollama
+- 🎬 **视频音乐生成**：一句话生成视频和音乐
+- 🌍 **全球化UI**：12种语言支持，本地化体验
+- 🔄 **Sessions UI**：状态持久化和分支管理
+
+## 📖 指南内容
+- ✅ v2026.4.8 新功能完全解析
+- ✅ 快速升级和配置指南
+- ✅ Memory Wiki实战教程
+- ✅ 新增Provider全配置
+- ✅ 视频音乐生成魔法
+- ✅ 生产力提升秘籍
+- ✅ 故障排除和优化
 
 ## 🚀 快速开始
 
-### 方法1：使用一键安装脚本
-```bash
-# 下载安装脚本
-curl -O https://raw.githubusercontent.com/Jacky/openclaw-30min-guide/main/scripts/quick-install.sh
+### 在线阅读
+访问：https://jacky.github.io/openclaw-2026.4.8-guide/
 
-# 运行安装
-chmod +x quick-install.sh
-./quick-install.sh
+### 本地使用
+```bash
+# 克隆仓库
+git clone https://github.com/Jacky/openclaw-2026.4.8-guide.git
+cd openclaw-2026.4.8-guide
+
+# 打开指南
+open docs/openclaw-2026.4.8-guide.md
 ```
 
-### 方法2：手动安装
-详细步骤请查看：[完整教程文档](docs/openclaw-30min-guide.md)
-
 ## 📁 文件说明
-- `docs/openclaw-30min-guide.md` - 完整教程文档
-- `scripts/quick-install.sh` - 一键安装脚本
+- `docs/openclaw-2026.4.8-guide.md` - 完整指南文档
+- `scripts/` - 自动化脚本
 - `examples/` - 配置文件示例
+- `templates/` - 配置模板
 
 ## 🤝 贡献与反馈
-欢迎贡献！请查看 CONTRIBUTING.md
+欢迎贡献！请查看 [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## ⚠️ 免责声明
-本教程为社区贡献，非官方文档。作者为 OpenClaw 社区参与者，不代表项目官方立场。
+本指南为社区贡献，非官方文档。作者为 OpenClaw 生态参与者。
 
 ## 📄 许可证
-MIT 许可证
+MIT 许可证 - 查看 [LICENSE](LICENSE) 文件
 
 ---
-**如果这个教程对你有帮助，请给个 ⭐ Star 支持一下！** 🦞
+**如果本指南对你有帮助，请给个 ⭐ Star 支持一下！** 🦞
+
+*Claw司令 - OpenClaw生态架构师*
