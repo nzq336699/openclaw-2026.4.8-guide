@@ -26,7 +26,7 @@
 ## 🚀 快速开始
 
 ### 在线阅读
-访问：https://jacky.github.io/openclaw-2026.4.8-guide/
+访问：https://nzq336699.github.io/openclaw-2026.4.8-guide/
 
 ### 本地使用
 ```bash
