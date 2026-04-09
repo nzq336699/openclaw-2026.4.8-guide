@@ -66,3 +66,7 @@ MIT 许可证 - 查看 [LICENSE](LICENSE) 文件
 - 🌐 [ClawCommunity](https://github.com/nzq336699/claw-community) - 生态社区建设
 
 **生态愿景**：建立世界级的OpenClaw开源生态！
+
+## 📢 最新公告
+OpenClaw生态矩阵已正式发布！查看详细公告：
+https://gist.github.com/nzq336699/5e9713e3b66914d1a6d333cfd0597439
