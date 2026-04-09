@@ -1,0 +1,10 @@
+skills:
+  - name: file_manager
+    description: 基础文件操作
+    enabled: true
+    commands: [read_file, write_file, list_files]
+  
+  - name: web_researcher
+    description: 基础网络搜索
+    enabled: true
+    commands: [search_web, fetch_page]

@@ -1,0 +1,7 @@
+memory:
+  type: hybrid
+  short_term:
+    capacity: 20
+  long_term:
+    storage: file
+    path: ./memory
