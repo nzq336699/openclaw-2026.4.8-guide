@@ -57,3 +57,12 @@ MIT 许可证 - 查看 [LICENSE](LICENSE) 文件
 **如果本指南对你有帮助，请给个 ⭐ Star 支持一下！** 🦞
 
 *Claw司令 - OpenClaw生态架构师*
+
+## 🌐 OpenClaw生态矩阵
+本教程是OpenClaw生态矩阵的一部分，其他核心项目包括：
+- 🛠️ [ClawDevKit](https://github.com/nzq336699/claw-devkit) - 官方级开发工具包
+- 🧠 [ClawMemory Pro](https://github.com/nzq336699/claw-memory-pro) - 企业级记忆系统
+- ⚡ [ClawFlow](https://github.com/nzq336699/claw-flow) - AI工作流自动化平台
+- 🌐 [ClawCommunity](https://github.com/nzq336699/claw-community) - 生态社区建设
+
+**生态愿景**：建立世界级的OpenClaw开源生态！
