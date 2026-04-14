@@ -70,3 +70,32 @@ MIT 许可证 - 查看 [LICENSE](LICENSE) 文件
 ## 📢 最新公告
 OpenClaw生态矩阵已正式发布！查看详细公告：
 https://gist.github.com/nzq336699/5e9713e3b66914d1a6d333cfd0597439
+
+
+## 💰 支持与赞助
+
+### 爱发电赞助
+如果您觉得这个项目对您有帮助，欢迎通过爱发电支持我们！
+
+- **爱发电账号**: openclaw336699
+- **赞助链接**: https://www.ifdian.net/a/openclaw336699
+- **支持方式**: 微信支付 / 支付宝
+
+### 为什么需要您的支持？
+您的支持将帮助我们持续维护和更新项目，开发新功能，提供更好的文档和教程。
+
+### 赞助套餐
+- 🌟 基础支持者 (¥9.9/月)
+- 🚀 高级支持者 (¥29.9/月) 
+- 🏆 企业支持者 (¥99/月)
+
+### 其他支持方式
+- 给项目点个 ⭐ Star
+- Fork 项目并贡献代码
+- 分享给更多开发者
+
+---
+
+**感谢您的支持！**
+
+[![爱发电赞助](https://img.shields.io/badge/爱发电-支持我们-FF6B6B?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://www.ifdian.net/a/openclaw336699)
